@@ -1,0 +1,11 @@
+Name : Vamsikrishna Neelam
+Email: neelam.11@wright.edu
+UID  : U01074399
+
+Abstract:
+---------
+I have selected the Image Classification as a topic for my final Project. The main dataset that I will be working on for the final project is on the United States of America(USA) number plates dataset. The source of the dataset mentioned here is the Kaggle. The dataset reuqires some kind of preprocessing where we are going to transform the images og larger size in to smaller size and it reuquires some other kinds of preprocessing to. After the preprocessing phase my intention is to develop two of the deep learning models to classify the different images in to 56 predefined classes and compare the performance of the developed two deep learning models and also to specify which deep learning model works best for the dataset chosen.
+
+Link for the dataset:
+---------------------
+https://www.kaggle.com/datasets/gpiosenka/us-license-plates-image-classification
